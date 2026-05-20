@@ -868,7 +868,6 @@
 }
 
 .world-card-btn {
-  border-radius: var(--r-full);
   padding: 9px 18px;
   font-size: 12px;
 }
